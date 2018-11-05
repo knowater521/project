@@ -1,3 +1,5 @@
 #cof
 
-'hhahahahha'
+print('hhahahahha')
+
+print('Tom is a Tom')
