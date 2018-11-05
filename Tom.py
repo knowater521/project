@@ -1,3 +1,4 @@
 #cof
 
-'hhahahahha'
+print('hhahahahha')
+print('Tom  ~~~~~')
